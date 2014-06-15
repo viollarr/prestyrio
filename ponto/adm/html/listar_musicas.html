@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Listagem de fotos_multimidia do banco de dados</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="styles_tbs/tbs_us_examples_0styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<table width="500" border="0" align="center" cellpadding="2"
+cellspacing="0">
+  <tr>
+    <td><p>
+      <span class="text-section2">
+      RecNr [var.recordnr] de Página [var.PageNum] / [var.PageSize] 
+	de [var.RecCnt].</span>
+	<span class="text-section2">
+        </span> </p>
+    </td>
+  </tr>
+</table>
+
+<br><center>Listagem de fotos_multimidia
+</center>
+
+<!--
+mysql> select * from fotos_multimidia limit 1;
++-----+----------+------------+---------+-------+
+| _id | _tipo    | _nome      | _thumb  | _foto |
++-----+----------+------------+---------+-------+
+|   1 | pessoais | Foto Legal | 1_p.jpg | 1.jpg |
++-----+----------+------------+---------+-------+
+1 row in set (0.00 sec)
+
+mysql> select * from texto_musicas;
++----+---------+-----------+
+| id | _texto  | arquivo   |
++----+---------+-----------+
+|  1 | Musica1 |           |
+
+-->
+
+
+<table border="1" align="center" cellpadding="2" cellspacing="0">
+  <tr bgcolor="#CACACA">
+    <td width="30" bgcolor="#CACACA">N#</td>
+    <td width="50">ID</td>
+    <td width="100">Nome</td>
+    <td width="100">Arquivo</td>
+
+  </tr>
+  <tr bgcolor="#F0F0F0">
+    <td>
+      <div align="center">&nbsp;[blk.#]<br>
+      </div>
+    </td>
+    <td>
+	[blk.id;block=tr;block=tr]<br>
+    </td>
+
+
+    <td>
+      <div align="right">[blk._texto]</div>
+    </td>
+
+    <td>
+      <div align="right">
+	<a href="../areas/mm_musica/[blk.arquivo]" target="_new">
+	[blk.arquivo]
+	</a>
+	</div> 
+    </td>
+
+  </tr>
+</table>
+<div align="center"><br>
+  Entradas: [var.RecCnt]<br>
+  <br>
+</div>
+
+<!--
+<table border="1" align="center" cellpadding="2" cellspacing="0">
+  <tr align="center">
+    <td width="16"><a
+href="[var..script_name]?PageNum=[nv.first;endpoint;magnet=a;mtype=m+m]">|&lt;</a></td>
+    <td width="16"><a
+href="[var..script_name]?PageNum=[nv.prev;endpoint;magnet=a;mtype=m+m]">&lt;</a></td>
+    <td width="16"><a
+href="[var..script_name]?PageNum=[nv.page;block=td;navsize=10;navpos=centred]">[nv.page]</a></td>
+    <td width="16"
+bgcolor="#C4E1E1">[nv.page;block=td;currpage]</td>
+    <td width="16"><a
+href="[var..script_name]?PageNum=[nv.next;endpoint;magnet=a;mtype=m+m]">&gt;</a></td>
+    <td width="16"><a
+href="[var..script_name]?PageNum=[nv.last;endpoint;magnet=a;mtype=m+m]">&gt;|</a></td>
+  </tr>
+</table>
+-->
+
+</body>
+</html>

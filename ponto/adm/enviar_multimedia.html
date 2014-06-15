@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Enviar Foto Multimédia</title>
+</head>
+<body>
+
+<form id="form1" name="form1" method="post" action="enviar_multimedia.php"
+ enctype="multipart/form-data">
+  <table width="200" border="1">
+    <tr>
+      <td colspan="2"><div align="center"><strong>Envio de foto Multimédia</strong></div></td>
+    </tr>
+
+    <tr>
+      <td width="65"><strong>Foto:</strong></td>
+      <td width="119"><label>
+        <input type="file" name="foto"/>
+      </label></td>
+    </tr>
+
+    <tr>
+      <td width="65"><strong>Thumb:</strong></td>
+      <td width="119"><label>
+        <input type="file" name="thumb"/>
+      </label></td>
+    </tr>
+
+
+    <tr>
+      <td><strong>Tipo:</strong></td>
+      <td>
+      <label>
+        <select name="tipo">
+          <option value="pessoais">pessoais</option>
+          <option value="shows">shows</option>
+        </select>
+      </label>
+
+Nome: <input type="text" name="foto_nome" size="10">
+
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><label>
+        <input type="submit" name="Enviar" id="Enviar" value="Enviar" />
+        <input type="reset" name="Limpar" id="Limpar" value="Limpar" />
+      </label></td>
+    </tr>
+  </table>
+</form>
+<!------------------------------------>
+<form id="form1" name="form1" method="post" action="enviar_musica.php"
+ enctype="multipart/form-data">
+  <table width="200" border="1">
+    <tr>
+      <td colspan="2"><div align="center"><strong>Envio de
+		m&uacute;sica</strong></div></td>
+    </tr>
+
+    <tr>
+      <td width="65"><strong>Musica:</strong></td>
+      <td width="119"><label>
+        <input type="file" name="musica"/>
+      </label></td>
+    </tr>
+
+
+    <tr>
+      <td><strong>Nome:</strong></td>
+      <td>
+      <label>
+        <input type="text" name="nome_musica"/>
+
+      </label>
+
+      </td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td><label>
+        <input type="submit" name="Enviar" id="Enviar" value="Enviar" />
+        <input type="reset" name="Limpar" id="Limpar" value="Limpar" />
+      </label></td>
+    </tr>
+
+  </table>
+</form>
+
+
+</body>
+</html>

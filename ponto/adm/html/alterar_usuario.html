@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="css/estilo.css" type="text/css" />
+<script type="text/javascript" src="js/funcoes.js"></script>
+<title>Administração:: Duo 40 anos Canecão</title>
+</head>
+
+<body>
+<form action="alterar_usuario.php?acao=alterar" method="POST" enctype="application/x-www-form-urlencoded">
+<input type="hidden" value="[blk1.106000_1000]" name="_1000" />
+<input type="hidden" value="[blk1.106000_6000]" name="_6000" />
+<input type="hidden" value="[blk1.106000_6010]" name="_6010" />
+<input type="hidden" value="[blk1.106000_6020]" name="_6020" />
+
+<table width="778" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td colspan="2" align="center">[onload;file='html/inc_topo.html']</td>
+  </tr>
+  <tr>
+    <td width="200" valign="top" bgcolor="#969FB4">[onload;file='html/inc_menu.html']</td>
+    <td valign="top"><table width="550" border="0" align="center" cellpadding="4" cellspacing="1">
+      <tr>
+        <td align="center" colspan="2">&nbsp;
+		<noscript>NÃO MEXER - ESPAÇO DA TABELA DE CONTEUDO COM O TOPO
+		</noscript></td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+		   <input type="image" src="images/ico_salvar.jpg" alt="Salvar" />
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		   <a href="listar_usuario.php">
+		      <img src="images/ico_cancelar.jpg" border="0" alt="Cancelar" />
+		   </a>
+		</td>
+      </tr>
+	  <tr>
+        <td align="center" colspan="2" height="15"></td>
+	  </tr>
+      <tr>
+        <td align="center" bgcolor="#E3E6EA" class="titulo_adm" colspan="2">ALTERAR USUÁRIO</td>
+      </tr>
+      <tr>
+        <td width="220" align="right" bgcolor="#F5F6F8" class="texto">Login:</td>
+        <td bgcolor="#F5F6F8" width="400" class="texto">&nbsp;[blk1.106000_6000]</td>
+      </tr>
+	  <tr>
+        <td width="235" align="right" bgcolor="#F5F6F8" class="texto">E-mail:</td>
+        <td bgcolor="#F5F6F8" width="400">
+		  <input type="text" name="_6030" maxlength="100" value="[blk1.106000_6030]" /></td>
+      </tr>
+	  <tr>
+        <td width="235" align="right" bgcolor="#F5F6F8" class="texto">Confirmar e-mail:</td>
+        <td bgcolor="#F5F6F8" width="400">
+		  <input type="text" name="_6030c" maxlength="100" /></td>
+      </tr>
+	  <tr>
+        <td width="220" align="right" bgcolor="#F5F6F8" class="texto">
+		   &nbsp;</td>
+        <td bgcolor="#F5F6F8" width="400" class="texto">
+		   <input type="checkbox" name="opcaoAdmin" id="1" value="1"
+		      [blk1.106000_6020; if [val]=1; then 'checked'; else ''] />
+		      &nbsp;Administrador
+		</td>
+	  </tr>
+      <tr>
+        <td bgcolor="#E3E6EA" align="center" colspan="2" class="texto">&nbsp;
+		   <font color="red">[var.erro]</font></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">[onload;file='html/inc_rodape.html']</td>
+  </tr>
+</table>
+</body>
+</html>

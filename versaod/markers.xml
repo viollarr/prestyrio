@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<markers>
+
+    <marker endereco="Rua Ipes, 100, Suzano, SP">
+	<icon name="pizza" url="icons/pizza.png" width="45" height="45" />
+	<html>
+	    <![CDATA[<p>Lanchonete João</p><p><img src="http://tinyurl.com/897xozw" width="60" height="60" /></p><p>R$ 4,50</p>]]>
+	</html>
+    </marker>
+
+    <marker endereco="Rua Biotonico, 555, Suzano, SP">
+	<icon name="kart" url="icons/kart.png" width="45" height="45" />
+	<html>
+	    <![CDATA[<p>Hipermercado Tatendo</p>]]>
+	</html>
+    </marker>
+
+    <marker endereco="Rua Benjamin Constant, 1500, Suzano, SP">
+	<icon name="imovel" url="icons/imovel.png" width="45" height="45" />
+	<html>
+	    <![CDATA[<p>Imobiliária 123Mudar</p>]]>
+	</html>
+    </marker>
+
+    <marker endereco="Av Mogi das Cruzes, 100, Suzano, SP"></marker>
+
+</markers>

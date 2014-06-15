@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="css/estilo.css" type="text/css" />
+<script type="text/javascript" src="js/funcoes.js"></script>
+<script type="text/javascript" src="js/fckeditor.js"></script>
+<title>Administração:: Duo 40 anos Canecão</title>
+</head>
+
+<body>
+<form action="listar_ficha_tecnica.php?acao=salvar" method="post" enctype="application/x-www-form-urlencoded" name="frm" id="frm">
+<table width="778" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td colspan="2" align="center">[onload;file='html/inc_topo.html']</td>
+  </tr>
+  <tr>
+    <td width="200" valign="top" bgcolor="#86A4B0">[onload;file='html/inc_menu.html']</td>
+    <td valign="top"><table width="550" border="0" align="center" cellpadding="4" cellspacing="1">
+	  <tr>
+        <td align="center" colspan="2"><input type="image" src="images/ico_cadastrar.jpg" alt="Salvar" title="Salvar" /></td>
+	  </tr>
+      <tr>
+        <td align="center" bgcolor="#E3E6EA" class="titulo_adm" colspan="2">FICHA TÉCNICA</td>
+      </tr>
+      <tr>
+        <td bgcolor="#F5F6F8" width="480" class="texto">
+            <script type="text/javascript">
+               var oFCKeditor = new FCKeditor( '_6000' , '100%' , 350 );
+               oFCKeditor.BasePath = "js/";
+			   oFCKeditor.ToolbarSet = 'duo40anos' ;
+               oFCKeditor.Value = "[blk1.105000_6000;htmlconv=js]";
+               oFCKeditor.Create();
+            </script>
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">[onload;file='html/inc_rodape.html']</td>
+  </tr>
+</table>
+</form>
+</body>
+</html>

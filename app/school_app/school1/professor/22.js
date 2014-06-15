@@ -1,0 +1,1 @@
+﻿{ "nome": "Albert Einstein", "id": 22, "materias": [ {"id":3, "nome":"Ciências"}, {"id":4, "nome":"Química"}, {"id":6, "nome":"Física"}] }

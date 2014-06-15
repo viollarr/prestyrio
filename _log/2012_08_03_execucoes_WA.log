@@ -1,0 +1,90 @@
+ 
+CADASTRO DE CLIENTE
+POST => "luciana" Data => "2012-08-03 10:31:43", Cadastrou o Cliente de vale 5317360 => "INFORMAÇÕES CADASTRADAS => "5 => 28 => 16 => 0 => 2 => 03/08/2012 => 5317360 => 168 => 5317360 => 03/08/2012 =>  =>  => GILBERTO PESSANHA DE OLIVEIRA =>  => TRAVESSA SANTA EDWIGES => 61 => CS102 => VL VALQUEIRA => Rio de Janeiro =>  => 8061-8024 =>  =>  =>  => 01 => 136543 => COZINHA  LUCIANE DAKAR CHAMP/NOG =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "luciana" Data => "2012-08-03 10:48:45", Alterou o Cliente de vale 5317360 => "INFORMAÇÕES ALTERADAS => "1 => 4864 => 5 => 39 => 28 => 0 => 2 => 03/08/2012 => 5317360 => 168 => 5317360 => 03/08/2012 =>  =>  => GILBERTO PESSANHA DE OLIVEIRA =>  => TRAVESSA SANTA EDWIGES => 61 => CS102 => VL VALQUEIRA => RIO DE JANEIRO =>  => 8061-8024 =>  =>  => FEITO O PEDIDO DE PEÇAS DIA 3/8 LUCIANA  =>  => 1 => 136543 => COZINHA  LUCIANE DAKAR CHAMP/NOG => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 11:05:54", Alterou o Cliente de vale 555059 => "INFORMAÇÕES ALTERADAS => "1 => 4613 => 11 => 36 => 24 => 0 => 2 => 12/07/2012 => 555059 => 281 => 555059 => 11/07/2012 =>  =>  => JORGE RICARDO DE SOUZA =>  => ESTRADA DA GAVEA => 164 => CASA 3 => ROCINHA => RIO DE JANEIRO => RJ => 3205-3607 => 3205-3542 =>  => PROX BAR DA BAIXINHA. => LAUDO PASSADO DIA 2/8 LUCIANA . => 1 => 8372 => G.ROUPA BP 3P DUBAY TB/BR/MP => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 12:05:28", Alterou o Cliente de vale 521151 => "INFORMAÇÕES ALTERADAS => "1 => 4578 => 11 => 24 => 10 => 0 => 0 => 12/07/2012 => 521151 => 230 => 6428 => 11/07/2012 => ANDERSON DE LIMA BARBOSA =>  => VIVIANE MOISES CHRISPIM => 23035180 => RUA  RIBEIRA DO POMBAL => 235 => CS => GUARATIBA => RIO DE JANEIRO => RJ => 8503-3980 =>  =>  => agend: 25/7 FICHA COM ALEX DE OLIVEIRA  =>  ENTRAR NA RUA MARINA 3 RUA A ESQUERDA SEGUIR PELA ESTR DO MAGARCA => 1 => 8729 => RACK BECHARA COPACABANA AMEND/PTO => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "luciana" Data => "2012-08-03 14:13:09", Cadastrou o Cliente de vale 534864 => "INFORMAÇÕES CADASTRADAS => "5 => 25 => 9 => 0 => 1 => 02/08/2012 => 534864 => 169 => 70167 => 02/08/2012 => ROSANA SOUZA MONTEIRO => 315690 => JULIUS VINICIUS ENEAS DE ANDRADE => 22250040 => Praia: de Botafogo => 356 => BL719 => Botafogo => Rio de Janeiro => RJ =>  =>  =>  =>  => 01 => 8372 => G.ROUPA BP 3P DUBAY TB/BR/MP => 01 => 8340 => CAMA CS N HORIZ AREZZO TB/BR/MP =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 14:13:33", Cadastrou o Cliente de vale 534800 => "INFORMAÇÕES CADASTRADAS => "11 => 39 => 21 => 0 => 0 => 02/08/2012 => 534800 => 249 => 20702 => 02/08/2012 => WILLIAN DE MELO MATTOS => 337615/199 => CATIA MARIA DOS REIS => 24310010 => RUA: MANOEL LOUREIRO DE FREITAS => LT 40 => QD 01 => LARGO DA BATALHA => NITERÓI => RJ => 2616-6327 => 8661-9370 => 7637-2843 => PROX AO POSTO DE GASOLINA ESSO E CAMPO DO OLARIA PROX AO RADIADOR SERAFIM DO MARCIO => 01 => 140391 => G.ROUPA ARAPLAC 8P AUSTRIA TB/BR =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "luciana" Data => "2012-08-03 14:16:29", Cadastrou o Cliente de vale 534786 => "INFORMAÇÕES CADASTRADAS => "5 => 21 => 17 => 0 => 1 => 02/08/2012 => 534786 => 197 => 29636 => 02/08/2012 => EVETON RODRIGO ANDRADE DA SILVA => 164109 => MARLI MARIA DE OLIVEIRA => 26445140 => Rua: Francisco Antônio Russo => 209 =>  => Engenheiro Pedreira => Japeri => RJ =>  =>  =>  =>  => 01 => 136216 => G.ROUPA MOVAL 6P PARIS TB/BR =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 14:26:38", Cadastrou o Cliente de vale 534802 => "INFORMAÇÕES CADASTRADAS => "11 => 26 => 17 => 0 => 1 => 02/08/2012 => 534802 => 249 => 534802 => 02/08/2012 => WILLIAN DE MELO MATTOS => 337615/199 => CATIA MARIA DOSREIS => 24310010 => RUA: MANOEL LOUREIRO DE FREITAS => LT 40 => QD   01 => LARGO DA BATALHA => NITERÓI => RJ => 2616-6327 => 8661-9370 => 7637-2843 => PROX AO POSATO DE GASOLINA ESSO E CAMPO DO OLARIA PROX AO RADIADOR SERAFIM PED.20702 => 01 => 140391 => G.ROUPA ARAPLAC 8P AUSTRIA TB/BR =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "luciana" Data => "2012-08-03 14:28:48", Cadastrou o Cliente de vale 437770 => "INFORMAÇÕES CADASTRADAS => "5 => 41 => 22 => 0 => 0 => 27/02/2012 => 437770 => 237 => 437770 => 27/02/2012 => RAFAELA LOPES THOMAZ => 498920 => MICHELE SILVA RODRIGUES => 21735370 => RUA: MARECHAL AGRICOLA => 452 =>  => Realengo => Rio de Janeiro => RJ =>  =>  =>  =>  => 01 => 140391 => G.ROUPA ARAPLAC 8P AUSTRIA TB/BR =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 14:54:00", Cadastrou o Cliente de vale 610827 => "INFORMAÇÕES CADASTRADAS => "11 => 5 => 18 => 0 => 2 => 03/08/2012 => 610827 => 179 => 610827 => 03/08/2012 =>  =>  => THAIS DOS SANTOS OLIVEIRA =>  => RUA CAMBUCI => 22 => QD 76 => JARDIM GRAMACHO => DUQUE DE CAXIAS => RJ => 3651-6687 => 7121-0031 =>  => PROX A BARRACA DO LULA PROX AO BRIZOLAO PROC PELA THAIS\'PED.24633 => 01 => 155454 => G-ROUPA EURO 3P ORION PL/PT/PL =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "luciana" Data => "2012-08-03 14:59:05", Alterou o Cliente de vale 513569 => "INFORMAÇÕES ALTERADAS => "1 => 1895 => 5 => 43 => 23 => 0 => 2 => 19/03/2012 => 513569 => RE => 513569 => 19/03/2012 =>  =>  => KINGSTON JOSE DE OLIVEIRA =>  => ITAPORANGA => 323 =>  => REALENGO => RIO DE JANEIRO => RJ => 3424-3536 =>  =>  =>  => FEITO O PEDIDO DE PEÇAS DIA 3/8 LUCIANA  => 1 => 138033 => G.ROUPA ARAPLAC 10P ATLAN PLUS TB/AM => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "luciana" Data => "2012-08-03 14:59:52", Alterou o Cliente de vale 513569 => "INFORMAÇÕES ALTERADAS => "1 => 1895 => 5 => 38 => 20 => 0 => 2 => 19/03/2012 => 513569 => RE => 513569 => 19/03/2012 =>  =>  => KINGSTON JOSE DE OLIVEIRA =>  => ITAPORANGA => 323 =>  => REALENGO => RIO DE JANEIRO => RJ => 3424-3536 =>  =>  =>  => FEITO O PEDIDO DE PEÇAS 3/8 LUCIANA  => 1 => 138033 => G.ROUPA ARAPLAC 10P ATLAN PLUS TB/AM => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 15:05:51", Cadastrou o Cliente de vale 451799 => "INFORMAÇÕES CADASTRADAS => "11 => 32 => 16 => 0 => 0 => 03/08/2012 => 451799 => 173 => 451799 => 26/03/2012 => FELIPE SILVA SANTOS => 506028/199 => CLEIDE DA COSTA MIRANDA => 21932797 => RUA: OITENTA E OITO => 63 =>  => TUBIACANGA => RIO DE JANEIRO => RJ => 3104-1740 =>  =>  => PROC AO CLUEBE DOS FLEXEIRAS PD.34268 => 01 => 134898 => COZ COMP ARAMOVEIS LILIAN PLUS  BR/PT =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "luciana" Data => "2012-08-03 15:26:03", Alterou o Cliente de vale 441483 => "INFORMAÇÕES ALTERADAS => "1 => 1183 => 5 => 9 => 18 => 0 => 1 => 14/03/2012 => 441483 => 237 => 44482 => 12/03/2012 =>  =>  => MARIO ABREU DE ARAUJO =>  => RUA MONGOLIA => 249 => CASA => BANGU => RIO DE JANEIRO => RJ => 3421-1552 =>  =>  => PX FINAL DA RUA DOS CUDES E DA IGREJA METODISTA. =>  => 1 => 8921 => G.ROUPA BIANCHI 6P REQUINTE TB/MP => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 15:34:59", Cadastrou o Cliente de vale 535688 => "INFORMAÇÕES CADASTRADAS => "11 => 17 => 22 => 2 => 0 => 03/08/2012 => 535688 => 203 => 81464 => 03/08/2012 => MARCOS MOURA => 499404/199 => DEBORA DA CONCEIÇÃO F BARBOSA => 20972450 => RUA: RIO => 110 => SOBRADO => JACARÉ => RIO DE JANEIRO => RJ => 7356-0063 =>  =>  => PROX A LANCHONETE DO SEU NIAGI  => 01 => 140351 => G.ROUPA N.HORIZ 6P VENUS BR/PTO =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 16:28:44", Alterou o Cliente de vale 560310 => "INFORMAÇÕES ALTERADAS => "1 => 3411 => 11 => 34 => 25 => 0 => 2 => 12/05/2012 => 560310 => RE => 560310 => 11/05/2012 =>  =>  => VALDEMAR TORRES CAETANO =>  => RUA A => 51 =>  => SANTA CRUZ => RIO DE JANEIRO =>  => 9178-6413 => 7635-0385 => 9410-1525 => ESTRADA DA PEDRA LOTEAMENTO RECANTO VERDE N°160 APOS O CLUBE CAMPESTRE PROC CLENIA OU FATIMA relatorio enviado para Miriam dia 12/6 Luciana  => cliente informa que quer a revisao da cozinha e não do g roupa. => 1 => 136216 => G.ROUPA MOVAL 6P PARIS TB/BR => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 16:35:41", Alterou o Cliente de vale 526753 => "INFORMAÇÕES ALTERADAS => "1 => 4854 => 11 => 35 => 22 => 0 => 1 => 31/07/2012 => 526753 => 245 => 526753 => 20/07/2012 => CARLOS ALBERTO RODRIGUES VELOS => 431726/199 => VERA LUCIA VILAS BOAS SANTOS => 22710355 => RUA: JORNALISTA BUENO FILHO => 78 bl01 => AP 202 => TAQUARA => RIO DE JANEIRO => RJ => 3342-8957 => 9658-8305 =>  => FICA ATRAS DO POSTO DE GASOLINA DA MERCK PED.37121 => alex deu baixa sem fazer o mesmo ira atender o cliente ate 06/08/12.cliente ciente.mirian => 1 => 6069 => BALCAO C/T ARAMOVEIS LILIAN VD/BR => 1 => 16419 => COZ. COMP ARAMOVEIS LILIAN PLUS BR/VD => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "MIRIAN" Data => "2012-08-03 17:06:59", Alterou o Cliente de vale 521151 => "INFORMAÇÕES ALTERADAS => "1 => 4578 => 11 => 42 => 21 => 0 => 0 => 12/07/2012 => 521151 => 230 => 6428 => 11/07/2012 => ANDERSON DE LIMA BARBOSA =>  => VIVIANE MOISES CHRISPIM => 23035180 => RUA  RIBEIRA DO POMBAL => 235 => CS => GUARATIBA => RIO DE JANEIRO => RJ => 8503-3980 =>  =>  => agend: 25/7 FICHA COM ALEX DE OLIVEIRA  =>  ENTRAR NA RUA MARINA 3 RUA A ESQUERDA SEGUIR PELA ESTR DO MAGARCA//Agendado p/04/08/12. => 1 => 8729 => RACK BECHARA COPACABANA AMEND/PTO => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => 0 =>  => "
+
+-------------------------------
